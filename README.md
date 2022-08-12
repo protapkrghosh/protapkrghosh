@@ -75,7 +75,7 @@ I am a full stock web developer interested in doing something new. Client satisf
    <table align="center">
    <h1 align="center">📈 My GitHub History!</h1>
     <tr>
-        <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Protap9Ghosh" /></td>
+        <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Protap9Ghosh&theme=blood-dark&fire=CC55FF&stroke=FFFE2F&ring=3FB984&background=102B43&currStreakLabel=21DEEA&currStreakNum=FF9A3E&sideNums=B1E0FF&sideLabels=2995BE&dates=36CE6D" /></td>
      </tr>
      <tr >
        <td><img alt="Protap :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Protap9Ghosh&show_icons=true&theme=tokyonight" /></td>
