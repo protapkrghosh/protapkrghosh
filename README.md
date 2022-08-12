@@ -1,6 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 # Hi there 👋, I'm Protap Ghosh
-### Full Stack Web Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=22&pause=1000&color=F26624&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+<br/>
 <img align="right" height="" width="350" alt="Codeing" src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif">
 I am a full stock web developer interested in doing something new. Client satisfaction is my main objective. I have a passion for learning and am always working to share my knowledge with others as much as possible. I am proud of my work because I am able to provide good service for the client. I love to solve problems. Most of the time I work with WordPress, enjoy working with JavaScript as well as PHP.
 <br/>
