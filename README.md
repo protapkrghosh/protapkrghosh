@@ -80,7 +80,7 @@ I am a full stock web developer interested in doing something new. Client satisf
      </tr>
      <tr >
        <td><img alt="Protap :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Protap9Ghosh&show_icons=true&theme=tokyonight" /></td>
-       <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Protap9Ghosh&theme=tokyonight" /></td>
+       <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Protap9Ghosh&layout=compact&theme=nord" /></td>
      </tr>
      
    </table>
