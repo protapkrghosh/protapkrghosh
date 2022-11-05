@@ -83,7 +83,6 @@ I am a full stock web developer interested in doing something new. Client satisf
 </p> 
 <br/>
 
-
 <p align="center">
    <table align="center">
    <h1 align="center">📈 My GitHub History!</h1>
