@@ -97,4 +97,5 @@ I am a full stock web developer interested in doing something new. Client satisf
    </table>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Protap9Ghosh) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Protap9Ghosh) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Protap9Ghosh&theme=cobalt)](https://github.com/Protap9Ghosh/github-readme-activity-graph)
