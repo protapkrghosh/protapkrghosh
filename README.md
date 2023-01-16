@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-# Hi there 👋, I'm Protap Ghosh
+# <h1 align=""> Hi there 👋, I'm Protap Ghosh </h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=22&pause=1000&color=F26624&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 <br/>
 <img align="right" height="" width="350" alt="Codeing" src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif">
