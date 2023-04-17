@@ -9,7 +9,7 @@ I am a full stock web developer interested in doing something new. Client satisf
 
 
 - 💼 I’m Full Stack Web Developer
-- ✒ I’m currently learning PHP
+- ✒ I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Ask me about Web Development
 - 📫 Email: protapghosh937@gmail.com
