@@ -18,7 +18,7 @@ I am a full stock web developer interested in doing something new. Client satisf
 <br/>
 <br/>
 
-[![Github](https://img.shields.io/github/followers/Protap9Ghosh?label=Follow&style=social)](https://github.com/Protap9Ghosh)&nbsp;![Profile views](https://gpvc.arturio.dev/Protap9Ghosh)
+[![Github](https://img.shields.io/github/followers/protapkrghosh?label=Follow&style=social)](https://github.com/protapkrghosh)&nbsp;![Profile views](https://gpvc.arturio.dev/protapkrghosh)
 
 ## <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies Skill</h2>
 
@@ -79,10 +79,10 @@ I am a full stock web developer interested in doing something new. Client satisf
 <h2 align="center">🤝 Reach me out!</h2>
 
 <p align="center">
-<a href="https://github.com/protap9ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="protap9ghosh" height="30" width="40" /></a>
-<a href="https://codepen.io/protap9ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="protap9ghosh" height="30" width="40" /></a>
-<a href="https://twitter.com/protap9ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="protap9ghosh" height="30" width="40" /></a>
-<a href="https://fb.com/protap9ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="protap9ghosh" height="30" width="40" /></a>
+<a href="https://github.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="protapkrghosh" height="30" width="40" /></a>
+<a href="https://codepen.io/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="protapkrghosh" height="30" width="40" /></a>
+<a href="https://twitter.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="protapkrghosh" height="30" width="40" /></a>
+<a href="https://fb.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="protapkrghosh" height="30" width="40" /></a>
 </p> 
 <br/>
 
@@ -90,15 +90,15 @@ I am a full stock web developer interested in doing something new. Client satisf
    <table align="center">
    <h1 align="center">📈 My GitHub History!</h1>
     <tr>
-        <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=protap9ghosh&theme=blood-dark&fire=CC55FF&stroke=FFFE2F&ring=3FB984&background=102B43&currStreakLabel=21DEEA&currStreakNum=FF9A3E&sideNums=B1E0FF&sideLabels=2995BE&dates=36CE6D" /></td>
+        <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=protapkrghosh&theme=blood-dark&fire=CC55FF&stroke=FFFE2F&ring=3FB984&background=102B43&currStreakLabel=21DEEA&currStreakNum=FF9A3E&sideNums=B1E0FF&sideLabels=2995BE&dates=36CE6D" /></td>
      </tr>
      <tr >
-       <td><img alt="Protap :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=protap9ghosh&show_icons=true&theme=tokyonight" /></td>
-       <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protap9ghosh&layout=compact&theme=nord" /></td>
+       <td><img alt="Protap :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=protapkrghosh&show_icons=true&theme=tokyonight" /></td>
+       <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protapkrghosh&layout=compact&theme=nord" /></td>
      </tr>
      
    </table>
 </p>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=protap9ghosh) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=protap9ghosh&theme=cobalt)](https://github.com/protap9ghosh/github-readme-activity-graph)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=protapkrghosh) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=protapkrghosh&theme=cobalt)](https://github.com/protapkrghosh/github-readme-activity-graph)
