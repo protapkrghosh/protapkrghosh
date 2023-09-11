@@ -8,11 +8,11 @@ I am a full stock web developer interested in doing something new. Client satisf
 <br/>
 
 
-- 💼 I’m Full Stack Web Developer
-- ✒ I’m currently learning React
-- 👯 I’m looking to collaborate on GitHub
-- 💬 Ask me about Web Development
-- 📫 Email: protapghosh937@gmail.com
+- ✒ I’m currently learning <strong>Next.js</strong> and <strong>Three.js</strong>
+- 👨‍💻 All of my projects are available at <a href="https://protap-ghosh.web.app" target="_blank">my portfolio</a>
+- 💬 Ask me about <strong>Javascript</strong> and <strong>React</strong> 
+- 📫 Reach me at <strong>protapghosh937@gmail.com</strong>
+- 📄 Know about my experiences <strong><a href="https://drive.google.com/file/d/1xRWSXTv3n0YHHEz5875zBqxsWb_8Mlzx/view?usp=sharing" target="_blank">Resume</a></strong>
 - ⚡ I love learning new technologies
 
 <br/>
@@ -57,6 +57,7 @@ I am a full stock web developer interested in doing something new. Client satisf
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%23273c75.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </div>
 
 ## <h2>📚 &nbsp;Learning</h2>
@@ -66,8 +67,6 @@ I am a full stock web developer interested in doing something new. Client satisf
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![React](https://img.shields.io/badge/react-%23273c75.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -79,10 +78,10 @@ I am a full stock web developer interested in doing something new. Client satisf
 <h2 align="center">🤝 Reach me out!</h2>
 
 <p align="center">
-<a href="https://github.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="protapkrghosh" height="30" width="40" /></a>
-<a href="https://codepen.io/protap9ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="protapkrghosh" height="30" width="40" /></a>
-<a href="https://twitter.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="protapkrghosh" height="30" width="40" /></a>
-<a href="https://fb.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="protapkrghosh" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/protapghosh"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" height="30" width="40px"/></a>
+<a href="https://codepen.io/protap9ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" /></a>
+<a href="https://twitter.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://fb.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p> 
 <br/>
 
