@@ -20,64 +20,35 @@ I am a full stock web developer interested in doing something new. Client satisf
 
 [![Github](https://img.shields.io/github/followers/protapkrghosh?label=Follow&style=social)](https://github.com/protapkrghosh)&nbsp;![Profile views](https://gpvc.arturio.dev/protapkrghosh)
 
-## <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies Skill</h2>
+## <span><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50' />&nbsp;Languages and Tools</span>
 
-<div align="center">
- 
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
- ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
- ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
- ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
- ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
- ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
- ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
- ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
- ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
- ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
- ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
- ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![React](https://img.shields.io/badge/react-%23273c75.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<div align="left">
+ <a href="https://www.w3.org/TR/html5/"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" height="45"></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="45px" height="45"></a>
+ <a href="https://git-scm.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" height="45px"></a>
+ <a href="https://www.w3.org/TR/CSS/"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" height="45px"></a>
+ <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40px" height="45px"></a>
+ <a href="https://sass-lang.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" height="45px"></a>
+ <a href="https://www.firebase.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" height="45px"></a>
+ <a href="https://getbootstrap.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40px"></a>
+ <a href="https://expressjs.com"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="80px" height="45px"></a>
+ <a href="https://tailwindcss.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="50px" height="45px"></a>
+ <a href="https://www.mongodb.org"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" height="45px"></a>
+ <a href="https://www.npmjs.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="45px"></a>
+ <a href="https://nodejs.org"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" height="45px"></a>
+ <a href="https://reactjs.org"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="45px" height="45px"></a>
+ <a href="https://nextjs.org"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" height="45px"></a>
+ <a href="https://material-ui.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="40px" height="45px"></a>
+ <a href="https://tc39.es/ecma262"><img src="https://static.javatpoint.com/tutorial/es6/images/es6-tutorial.png" alt="ECMAScript 6" width="40px" height="40px"></a>
+ <a href="https://code.visualstudio.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" height="45px"></a>
+ <a href="https://www.figma.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" height="45px"></a>
+ <a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="45px"></a>
 </div>
 
-## <h2>📚 &nbsp;Learning</h2>
-
-<div align="center">
-
- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
- ![Next js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
- 
-</div>
 <br/>
- 
-<h2 align="center">🤝 Reach me out!</h2>
 
-<p align="center">
+<h2 align="left">🤝 Reach me out!</h2>
+<p align="left">
  <a href="https://www.linkedin.com/in/protapghosh"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" height="30" width="40px"/></a>
 <a href="https://codepen.io/protap9ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" /></a>
 <a href="https://twitter.com/protapkrghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
@@ -85,9 +56,9 @@ I am a full stock web developer interested in doing something new. Client satisf
 </p> 
 <br/>
 
-<p align="center">
-   <table align="center">
-   <h1 align="center">📈 My GitHub History!</h1>
+<p align="left">
+   <table align="left">
+   <h1 align="left">📈 My GitHub History!</h1>
     <tr>
         <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=protapkrghosh&theme=blood-dark&fire=CC55FF&stroke=FFFE2F&ring=3FB984&background=102B43&currStreakLabel=21DEEA&currStreakNum=FF9A3E&sideNums=B1E0FF&sideLabels=2995BE&dates=36CE6D" /></td>
      </tr>
