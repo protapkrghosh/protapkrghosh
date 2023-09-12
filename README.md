@@ -16,9 +16,6 @@ I am a full stock web developer interested in doing something new. Client satisf
 - ⚡ I love learning new technologies
 
 <br/>
-<br/>
-
-[![Github](https://img.shields.io/github/followers/protapkrghosh?label=Follow&style=social)](https://github.com/protapkrghosh)&nbsp;![Profile views](https://gpvc.arturio.dev/protapkrghosh)
 
 ## <span><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50' />&nbsp;Languages and Tools</span>
 
@@ -56,8 +53,8 @@ I am a full stock web developer interested in doing something new. Client satisf
 </p> 
 <br/>
 
-<p align="left">
-   <table align="left">
+<p align="center">
+   <table align="center">
    <h1 align="left">📈 My GitHub History!</h1>
     <tr>
         <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=protapkrghosh&theme=blood-dark&fire=CC55FF&stroke=FFFE2F&ring=3FB984&background=102B43&currStreakLabel=21DEEA&currStreakNum=FF9A3E&sideNums=B1E0FF&sideLabels=2995BE&dates=36CE6D" /></td>
@@ -71,4 +68,4 @@ I am a full stock web developer interested in doing something new. Client satisf
 </p>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=protapkrghosh) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=protapkrghosh&theme=cobalt)](https://github.com/protapkrghosh/github-readme-activity-graph)
+[![Protap's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=protapkrghosh&bg_color=1b2a41&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
