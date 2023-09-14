@@ -40,6 +40,7 @@ I am a full stock web developer interested in doing something new. Client satisf
  <a href="https://code.visualstudio.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" height="45px"></a>
  <a href="https://www.figma.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" height="45px"></a>
  <a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="45px"></a>
+ <a href="https://jestjs.io/"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" height="45px"></a>
 </div>
 
 <br/>
