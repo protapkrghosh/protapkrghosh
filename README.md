@@ -12,7 +12,7 @@ I am a full stock web developer interested in doing something new. Client satisf
 - 👨‍💻 All of my projects are available at <a href="https://protap-ghosh.web.app" target="_blank">my portfolio</a>
 - 💬 Ask me about <strong>Javascript</strong> and <strong>React</strong> 
 - 📫 Reach me at <strong>protapghosh937@gmail.com</strong>
-- 📄 Know about my experiences <strong><a href="" target="_blank">Resume</a></strong>
+- 📄 Know about my experiences <strong><a href="https://drive.google.com/file/d/1xRWSXTv3n0YHHEz5875zBqxsWb_8Mlzx/view?usp=sharing" target="_blank">Resume</a></strong>
 - ⚡ I love learning new technologies
 
 <br/>
