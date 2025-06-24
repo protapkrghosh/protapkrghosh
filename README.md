@@ -8,7 +8,7 @@ I am a full stock web developer interested in doing something new. Client satisf
 <br/>
 
 
-- ✒ I’m currently learning <strong>Next.js</strong> and <strong>Three.js</strong>
+- ✒ I’m currently exploring <strong>Next.js</strong> and <strong>Three.js</strong>
 - 👨‍💻 All of my projects are available at <a href="https://protap-ghosh.web.app" target="_blank">my portfolio</a>
 - 💬 Ask me about <strong>Javascript</strong> and <strong>React</strong> 
 - 📫 Reach me at <strong>protapghosh937@gmail.com</strong>
@@ -36,7 +36,7 @@ I am a full stock web developer interested in doing something new. Client satisf
  <a href="https://reactjs.org"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="45px" height="45px"></a>
  <a href="https://nextjs.org"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" height="45px"></a>
  <a href="https://material-ui.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="40px" height="45px"></a>
- <a href="https://tc39.es/ecma262"><img src="https://static.javatpoint.com/tutorial/es6/images/es6-tutorial.png" alt="ECMAScript 6" width="40px" height="40px"></a>
+ <a href="https://ui.shadcn.com"><img src="https://media.daily.dev/image/upload/s--nmy-SeMz--/f_auto/v1733385075/squads/f6e60edb-ee79-4dee-914c-841e14638aa9" alt="Shadcn UI" width="40px" height="40px"></a>
  <a href="https://code.visualstudio.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" height="45px"></a>
  <a href="https://www.figma.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" height="45px"></a>
  <a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="45px"></a>
