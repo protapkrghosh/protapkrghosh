@@ -62,7 +62,8 @@ I am a full stock web developer interested in doing something new. Client satisf
      </tr>
      <tr >
        <td><img alt="Protap :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=protapkrghosh&show_icons=true&theme=tokyonight" /></td>
-       <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protapkrghosh&layout=compact&theme=nord" /></td>
+      <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protapkrghosh&hide_progress=true&layout=compact&theme=nord" /></td>
+       <!-- <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protapkrghosh&layout=compact&theme=nord" /></td> -->
      </tr>
      
    </table>
