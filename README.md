@@ -8,7 +8,7 @@ I am a full stock web developer interested in doing something new. Client satisf
 <br/>
 
 
-- ✒ I’m currently exploring <strong>Next.js</strong> and <strong>Three.js</strong>
+- ✒ I’m currently exploring <strong>PostgreSQL</strong> and <strong>TypeScript</strong>
 - 👨‍💻 All of my projects are available at <a href="https://protap-ghosh.web.app" target="_blank">my portfolio</a>
 - 💬 Ask me about <strong>Javascript</strong> and <strong>React</strong> 
 - 📫 Reach me at <strong>protapghosh937@gmail.com</strong>
