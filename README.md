@@ -23,10 +23,12 @@ I am a full stock web developer interested in doing something new. Client satisf
  <a href="https://www.typescriptlang.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" alt="TypeScript" height="45"></a>
  <a href="https://www.postgresql.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="45"></a>
  <a href="https://www.w3.org/TR/html5/"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" height="45"></a>
+ <a href="https://www.postman.com"><img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" height="45"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="45px" height="45"></a>
  <a href="https://git-scm.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" height="45px"></a>
  <a href="https://www.w3.org/TR/CSS/"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" height="45px"></a>
  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40px" height="45px"></a>
+ <a href="https://www.prisma.io"><img src="https://github.com/get-icon/geticon/blob/master/icons/prisma.svg" alt="Prisma" width="40px" height="45px"></a>
  <a href="https://sass-lang.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" height="45px"></a>
  <a href="https://www.firebase.com"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" height="45px"></a>
  <a href="https://getbootstrap.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40px"></a>
