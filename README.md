@@ -21,6 +21,7 @@ I am a full stock web developer interested in doing something new. Client satisf
 
 <div align="left">
  <a href="https://www.typescriptlang.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" alt="TypeScript" height="45"></a>
+ <a href="https://www.postgresql.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="45"></a>
  <a href="https://www.w3.org/TR/html5/"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" height="45"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="45px" height="45"></a>
  <a href="https://git-scm.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" height="45px"></a>
