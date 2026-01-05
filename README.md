@@ -65,7 +65,7 @@ I am a full-stack web developer interested in doing something new. Client satisf
         <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=protapkrghosh&theme=blood-dark&fire=CC55FF&stroke=FFFE2F&ring=3FB984&background=102B43&currStreakLabel=21DEEA&currStreakNum=FF9A3E&sideNums=B1E0FF&sideLabels=2995BE&dates=36CE6D" /></td>
      </tr>
      <tr >
-       <td><img alt="Protap :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=protapkrghosh&show_icons=true&theme=tokyonight" /></td>
+       <td><img alt="Protap :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=protapkrghosh&show_icons=true&theme=radical" /></td>
       <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protapkrghosh&hide_progress=true&layout=compact&theme=nord" /></td>
        <!-- <td><img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protapkrghosh&layout=compact&theme=nord" /></td> -->
      </tr>
