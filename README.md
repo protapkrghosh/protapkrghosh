@@ -72,8 +72,6 @@ I am a full-stack web developer interested in doing something new. Client satisf
    </table>
 </p>
 
-<img alt="Protap :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protapkrghosh&hide_progress=true&layout=compact&theme=nord" />
-
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=protapkrghosh) -->
 
  [![Protap's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=protapkrghosh&bg_color=1b2a41&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
