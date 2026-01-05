@@ -73,6 +73,6 @@ I am a full-stack web developer interested in doing something new. Client satisf
 </p>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=protapkrghosh) -->
-<!-- <div>
+<div>
  [![Protap's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=protapkrghosh&bg_color=1b2a41&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div> -->
+</div>
